@@ -1,0 +1,18 @@
+The comparision between codes is useful because it allows us to make the process of searching
+ an error more easily also it helps to see what changes we make to develop a the actual platform.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+because it can help to see how I make inprovements to the code.
+Also I can be more efficient in searching problems.
+Working in groups is also a benefit.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Maybe you can make a change and doesn't commit so here is a problem that
+is to difficult to find.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because is very common that when you program there are files that are related,
+Besides in the other hand for a text document it tend to doesn't have relationship.
+How can you use the commands git log and git diff to view the history of files?
+I can use it to identify the files that had a change and later compare the expecific changes between versions.
+How might using version control make you more confident to make changes that could break something?
+Because it makes more easily to identify where the error was and how to solve it.
+Now that you have your workspace set up, what do you want to try using Git for?
+For trying to implement version control in my projects.
