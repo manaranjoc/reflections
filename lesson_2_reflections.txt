@@ -19,6 +19,10 @@ To create different version that require big changes, like layout.
 
 How do the diagrams help you visualize the branch structure?
 
+They help to establish a visual way of looking the commits,
+Also they are more comprensible to learn how they work and
+how they are distributed.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
