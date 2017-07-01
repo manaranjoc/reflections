@@ -32,3 +32,6 @@ Because it means combine the information from one side to another without alteri
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging can cause compilation problems besides always doing
+myself is tedious but I can make sure that this changes are good
