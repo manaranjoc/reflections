@@ -13,6 +13,10 @@ Because I can see what files I want to commit.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+To make different versions with improvements to a project.
+
+To create different version that require big changes, like layout.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
