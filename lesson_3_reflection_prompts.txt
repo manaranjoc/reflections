@@ -12,3 +12,6 @@ in the internal of a repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 That you can compare the changes from the server to the local and avoid conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Pull request create less errors and can create a discussion about a topic i think that this is the better way.
