@@ -15,3 +15,9 @@ That you can compare the changes from the server to the local and avoid conflict
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Pull request create less errors and can create a discussion about a topic i think that this is the better way.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When is a big change, The first one make possible to change or develop things 
+without interfering the base code for the project. the second is faster but is less
+organized.
